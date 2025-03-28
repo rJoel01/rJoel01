@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1>Ciao, sono Giovanni!<br/><a href="https://github.com/joshmadakor1">Mobile Android Developer</a></h1>
 
-<!--
-**rJoel01/rJoel01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Progetti</h2>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b>Lungo le antiche rue</b>
+  - [Progetto Lungo le antiche rue](https://github.com/rJoel01) <b><i>(Jetpack Compose)</b></i>
+  - [Lungo le antiche rue](https://github.com/rJoel01) <b><i>(Play Store App)</b></i>
+- <b>Lenslate</b>
+  - [Progetto Lenslate](https://github.com/rJoel01) <b><i>(CameraX, Vision API, Firebase, Jetpack Compose)</b></i>
+  - [Lenslate](https://github.com/rJoel01) <b><i>(Play Store App)</b></i>
+- <b>Weather Report</b>
+  - [Progetto Weather Report](https://github.com/rJoel01) <b><i>(REST API, Dagger Hilt, Clean Architecture, Jetpack Compose)</b></i>
+  - [Weather Report](https://github.com/rJoel01) <b><i>(Play Store App)</b></i>
