@@ -6,8 +6,8 @@
   - [Progetto Lungo le antiche rue](https://github.com/rJoel01/lungo-le-antiche-rue/blob/main/README.md) <b><i>(Jetpack Compose)</b></i>
   - [Lungo le antiche rue](https://play.google.com/store/apps/details?id=com.joel.sagradellecastagnemap&hl=it) <b><i>(Play Store App)</b></i>
 - <b>Lenslate</b>
-  - [Progetto Lenslate](https://github.com/rJoel01) <b><i>(CameraX, Vision API, Firebase, Jetpack Compose)</b></i>
-  - [Lenslate](https://github.com/rJoel01) <b><i>(Play Store App)</b></i>
+  - [Progetto Lenslate](https://github.com/rJoel01/Lenslate/blob/main/README.md) <b><i>(CameraX, Vision API, Firebase, Jetpack Compose)</b></i>
+  - [Lenslate](https://play.google.com/store/apps/details?id=com.joel.vision&hl=it) <b><i>(Play Store App)</b></i>
 - <b>Weather Report</b>
   - [Progetto Weather Report](https://github.com/rJoel01) <b><i>(REST API, Dagger Hilt, Clean Architecture, Jetpack Compose)</b></i>
   - [Weather Report](https://github.com/rJoel01) <b><i>(Play Store App)</b></i>
